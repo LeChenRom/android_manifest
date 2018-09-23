@@ -716,5 +716,6 @@
   <!-- Arrow changes -->
   <include name="remove.xml" />
   <include name="arrow.xml" />
+  <include name="lechen.xml" />
 
 </manifest>
