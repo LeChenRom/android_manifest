@@ -19,6 +19,7 @@
   <!-- Arrow Core Repos -->
   <project path="frameworks/base" name="android_frameworks_base" remote="lechen" />
   <project path="vendor/arrow" name="android_vendor_arrow" remote="lechen" />
+  <project path="frameworks/av" name="android_frameworks_av" groups="pdk" remote="lechen" />
 
   <!-- Arrow Packages Repos -->
   <project path="packages/apps/Calendar" name="android_packages_apps_Calendar" remote="lechen" />
