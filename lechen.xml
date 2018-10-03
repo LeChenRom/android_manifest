@@ -31,5 +31,6 @@
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="lechen" />
   <project path="external/suda/SudaSDKs" name="external_suda_SudaSDKs" remote="lechen" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="lechen" />
+  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="lechen" />
 </manifest>
 
